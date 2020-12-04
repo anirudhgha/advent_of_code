@@ -1,2 +1,2 @@
 # Advent of code
-Advent of code stuffs
+If you haven't heard of it, check it out at https://adventofcode.com
