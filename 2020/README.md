@@ -7,4 +7,4 @@
 * day 6 - find how many questions are answered by everyone in a group, or anyone in the group.
 * day 7 - recursively find how many bags the shiny gold bag contains given how many of which bag each bag contains.
 * day 8 - given a list of instructions, swap a single erroneous op that terminates the instruction list correctly. 
-* 
+* day 9 - check if each number following x in list is a sum of 2 of previous numbers, then find contiguous chunk of numbers that sum to a value. 
