@@ -15,3 +15,5 @@ for i in nums:
     if addends[0] != -1:
         print(np.prod(addends) * i)         # part 2
         break
+
+
